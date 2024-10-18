@@ -32,7 +32,7 @@ const Destinations = () => {
                 our Space Observation service. Enjoy stunning views of celestial
                 bodies, including stars, planets, and galaxies, all while
                 receiving insightful commentary about the universe. Whether
-                you're a seasoned astronomer or a curious traveler, this
+                you&#39;re a seasoned astronomer or a curious traveler, this
                 experience allows you to connect with the vastness of space like
                 never before.
               </p>

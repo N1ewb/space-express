@@ -61,9 +61,9 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="row border-t-2 border-solid border-[#52145A] w-full mt-10 flex flex-row items-center justify-between">
+      <div className="row border-t-2 border-solid border-[#52145A] w-full mt-10 flex flex-row items-center justify-between py-10 [&_p]:text-[20px] [&_p]:text-[#161616]">
         <p>© 2024 Space Express, All Rights Reserved</p>
-        <div className="flex flex-row items-center">
+        <div className="flex flex-row w-[20%] justify-between items-center text-[#161616]">
           <p>Terms & Condition</p> | <p>Privacy Policy</p>
         </div>
       </div>
