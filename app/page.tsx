@@ -1,9 +1,7 @@
-
-
-import Footer from "./_components/Footer";
 import Destinations from "./_sections/Destinations";
 import Hero from "./_sections/Hero";
 import Process from "./_sections/Process";
+import Services from "./_sections/Services";
 
 export default function Home() {
   return (
@@ -11,7 +9,7 @@ export default function Home() {
       <Hero />
       <Process />
       <Destinations />
-      <Footer />
+      <Services />
     </div>
   );
 }
